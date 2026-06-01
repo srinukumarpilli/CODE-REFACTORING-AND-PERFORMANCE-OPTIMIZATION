@@ -221,3 +221,6 @@ Function reusability.
 Code organization and maintenance.
 
 ##OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/afe281de-382f-4a0d-a7f2-01289331ae7c" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/503d8cd1-6f1b-4986-a920-d0e7e66645e2" />
